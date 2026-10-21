@@ -1,0 +1,26 @@
+product_id,product_name,aisle_id,department_id
+1,Organic Bananas,1,1
+2,Bag of Organic Bananas,1,1
+3,Organic Strawberries,1,1
+4,Organic Baby Spinach,1,1
+5,Hass Avocados,1,1
+6,Whole Milk 1 Gallon,2,2
+7,Large Grade A Eggs 12ct,2,2
+8,Organic Greek Plain Yogurt,2,2
+9,Unsalted Butter 16oz,2,2
+10,Cheddar Cheese Block,2,2
+11,Whole Wheat Bread,3,3
+12,Sourdough Boule,3,3
+13,Butter Croissant 4pk,3,3
+14,Sparkling Water Lime 12pk,4,4
+15,100% Orange Juice 59oz,4,4
+16,Cold Brew Coffee 32oz,4,4
+17,Sea Salt Potato Chips,5,5
+18,Dark Chocolate Almonds,5,5
+19,Organic Tortilla Chips,5,5
+20,Extra Virgin Olive Oil 500ml,6,6
+21,Organic Pasta Spaghetti,6,6
+22,Tomato Basil Pasta Sauce,6,6
+23,Frozen Organic Blueberries,7,7
+24,Frozen Thin Crust Pizza,7,7
+25,Hand Sanitizer Citrus 8oz,8,8

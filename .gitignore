@@ -1,0 +1,18 @@
+.venv/
+node_modules/
+__pycache__/
+data/processed/
+*.pyc
+.env
+
+# Generated frontend files
+frontend/dist/
+*.tsbuildinfo
+
+# Downloaded full dataset
+data/full/
+
+# Local secrets
+.env.*
+!.env.example
+
